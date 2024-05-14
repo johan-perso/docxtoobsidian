@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "docxtoobsidian",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "JohanStickman",
+  "license": "MIT",
+  "dependencies": {
+    "docx4js": "^3.2.20",
+    "extract-zip": "^2.0.1",
+    "node-cache": "^5.1.2",
+    "xml-js": "^1.6.11"
+  },
+  "homepage": "https://github.com/johan-perso/docxtoobsidian"
+}
